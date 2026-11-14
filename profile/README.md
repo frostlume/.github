@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frostlume/brand/main/frostlume/color/frostlume-dark.png">
-    <img alt="Frostlume" src="https://raw.githubusercontent.com/frostlume/brand/main/frostlume/color/frostlume-light.png" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frostlume/brand/main/frostlume/banner/frostlume-banner-dark.png">
+    <img alt="Frostlume" src="https://raw.githubusercontent.com/frostlume/brand/main/frostlume/banner/frostlume-banner-light.png" width="440">
   </picture>
 </p>
 
