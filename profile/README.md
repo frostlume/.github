@@ -19,11 +19,9 @@
 
 ### 最近在玩的东西
 
-| | |
-|---|---|
-| [**OwlTide**](https://github.com/FuYue-WanJie/owltide) | 用 Go 写的 AI Agent 框架：薄核心，配置可自我演进并由 git 管理，纯 Go、支持 Android |
-| [**m3e-plus**](https://github.com/FuYue-WanJie/m3e-plus) | 基于 @m3e/web 二次开发、对齐原生体验的 Material 3 Expressive 组件库 |
-| [**Canter**](https://github.com/FuYue-WanJie/canter) | 轻量级 Android 构建工具，直接解析 Gradle 工程，无需 Gradle daemon 即可构建 APK |
+- **[OwlTide](https://github.com/FuYue-WanJie/owltide)**：用 Go 写的 AI Agent 框架。薄核心，配置可自我演进并由 git 管理，纯 Go、支持 Android
+- **[m3e-plus](https://github.com/FuYue-WanJie/m3e-plus)**：基于 @m3e/web 二次开发、对齐原生体验的 Material 3 Expressive 组件库
+- **[Canter](https://github.com/FuYue-WanJie/canter)**：轻量级 Android 构建工具，直接解析 Gradle 工程，无需 Gradle daemon 即可构建 APK
 
 最近就这些，其他的随缘。
 
